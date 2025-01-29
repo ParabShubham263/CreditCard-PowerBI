@@ -1,4 +1,4 @@
-# CreditCard-PowerBI
+# Credit Card Report- PowerBI
 
 *This repository contains files of credit card raw data.*
 
